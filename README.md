@@ -13,7 +13,7 @@ This dataset provides an in-depth look at the profitability of e-commerce sales.
 The primary source of data used here is Sale Report csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
 
 ### Tools used
-- Ms Excel for Data Cleaning
+- Ms Excel for Data Cleaning [download here](https://www.microsoft.com)
 - SQL Server (for querying and analysis)
 - Power BI (for creating a report)
 - Ms Power Point (for presentation)
