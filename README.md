@@ -17,3 +17,8 @@ The primary source of data used here is Sale Report csv and this is an open sour
 - SQL Server (for querying and analysis)
 - Power BI (for creating a report)
 - Ms Power Point (for presentation)
+
+
+*Italics*
+
+**Bold**
