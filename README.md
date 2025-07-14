@@ -14,11 +14,15 @@ A collection of notes, examples, and projects showcasing my understanding of dat
 1. Introduction to Data Analysis
     - Definition of data analysis
     - Importance of data analysis
+    - Data Generation (Operational Syatems and Analytic Systems)
+    - Data Storage (On Premise and On cloud)
+    - Forms of Data (Structured, Semi-Stractured, Unstructured)
     - Types of data (quantitative, qualitative, etc.)
+    - Data Analysis life cycle (Ingestion - Transformation - Modelling - Visualization - Analysis - Presentation)
 
 2. Excel Functions
-    - Overview of essential Excel functions (SUM, AVERAGE, COUNT, etc.)
-    - Text Extraction (LEFT, MID, RIGHT, FIND, etc.)
+    - Overview of essential Excel functions (SUM, LARGE, SMALL, MAX, MIN, AVERAGE, COUNT, etc.)
+    - Text Extraction (LEFT, MID, RIGHT, FIND, CONCATENATE, TRIM etc.)
     - Conditionals (IF, IFS, AND, OR, etc.)
     - Examples of using functions for data manipulation and analysis
 
