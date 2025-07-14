@@ -13,6 +13,7 @@ A collection of notes, examples, and projects showcasing my understanding of dat
 #### Microsoft Excel
 1. Introduction to Data Analysis
     - Definition of data analysis
+    - 3 Major tools of Data Analysis (Ms Excel, SQL and Power BI)
     - Importance of data analysis
     - Data Generation (Operational Syatems and Analytic Systems)
     - Data Storage (On Premise and On cloud)
