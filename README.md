@@ -22,9 +22,10 @@ A collection of notes, examples, and projects showcasing my understanding of dat
     - Conditionals (IF, IFS, AND, OR, etc.)
     - Examples of using functions for data manipulation and analysis
 
-3. Lookup Functions (XLOOKUP and VLOOKUP)
+3. Lookup Functions (XLOOKUP, VLOOKUP, HLOOKUP, MATCH, XMATCH, INDEX etc.)
     - Explanation of XLOOKUP and VLOOKUP syntax and usage
     - Examples of using XLOOKUP and VLOOKUP for data retrieval and analysis
+    - Under6standing the concept of Cell referencing (RELATIVE, ABSOLUTE, COLUMN CONSTANT, ROW CONSTANT)
   
 4. Introduction to Pivot Tables
     - What are pivot tables?
