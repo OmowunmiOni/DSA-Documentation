@@ -1,8 +1,8 @@
-# DSA-Documentation
+# DSA Data Analysis-Documentation
 
 This is where I started my portfolio building while taking data analysis classes with the Incubator hub.
 
-I have learnt quite a number of things ranging from Ms Excel to SQL and now to my portfolio building.
+I have learnt quite a number of things ranging from Ms Excel to SQL, portfolio building and now to my Power BI.
 
 ## Project Topic: E-commerce Sales Analysis
 
