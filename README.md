@@ -4,21 +4,39 @@ This is where I started my portfolio building while taking data analysis classes
 
 I have learnt quite a number of things ranging from Ms Excel to SQL, portfolio building and now to my Power BI.
 
-## Project Topic: E-commerce Sales Analysis
+## Project Topic: Data Analysis Fundamentals
 
-### Project Overview
-This dataset provides an in-depth look at the profitability of e-commerce sales. It contains data on a variety of sales channels, as well as financial information on related expenses and profits. The columns contain data such as SKU codes, design numbers, stock levels, product categories, sizes and colors. In addition to this I have included the MRPs across multiple stores along with other key parameters like amount paid by customer for the purchase , rate per piece for every individual transaction Also I have added transactional parameters like Date of sale months category fulfilledby B2b Status Qty Currency Gross amt . This is a must-have dataset for anyone trying to uncover the profitability of e-commerce sales in today's marketplace.
+### Description: 
+A collection of notes, examples, and projects showcasing my understanding of data analysis concepts learned through the Digital Skillup Africa Data Analysis course organized by the Incubator Hub.
 
-### Data Sources
-The primary source of data used here is Sale Report csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
+### Topics Covered:
+#### Microsoft Excel
+1. Introduction to Data Analysis
+    - Definition of data analysis
+    - Importance of data analysis
+    - Types of data (quantitative, qualitative, etc.)
 
-### Tools used
-- Ms Excel for Data Cleaning [download here](https://www.microsoft.com)
-- SQL Server (for querying and analysis)
-- Power BI (for creating a report)
-- Ms Power Point (for presentation)
+2. Excel Functions
+    - Overview of essential Excel functions (SUM, AVERAGE, COUNT, etc.)
+    - Text Extraction (LEFT, MID, RIGHT, FIND, etc.)
+    - Conditionals (IF, IFS, AND, OR, etc.)
+    - Examples of using functions for data manipulation and analysis
 
+3. Lookup Functions (XLOOKUP and VLOOKUP)
+    - Explanation of XLOOKUP and VLOOKUP syntax and usage
+    - Examples of using XLOOKUP and VLOOKUP for data retrieval and analysis
+  
+4. Introduction to Pivot Tables
+    - What are pivot tables?
+    - Benefits of using pivot tables
+    - Basic pivot table creation and customization
 
-*Italics*
-
-**Bold**
+5. Advanced Pivot Table Topics
+    - Grouping and filtering data in pivot tables
+    - Creating calculated fields and measures
+    - Best practices for pivot table design and usage
+  
+6. Creating Charts
+    - Overview of chart types (bar, column, line, etc.)
+    - Best practices for chart creation and customization
+    - Creating very clean and easy to comprehend dashboards
