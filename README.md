@@ -2,7 +2,7 @@
 
 This is where I started my portfolio building while taking data analysis classes with the Incubator hub.
 
-I have learnt quite a number of things ranging from Ms Excel to SQL, portfolio building and now to my Power BI.
+I have learnt quite a number of things ranging from Ms Excel to SQL, portfolio building and now to Power BI.
 
 ## Project Topic: Data Analysis Fundamentals
 
@@ -15,7 +15,7 @@ A collection of notes, examples, and projects showcasing my understanding of dat
     - Definition of data analysis
     - 3 Major tools of Data Analysis (Ms Excel, SQL and Power BI)
     - Importance of data analysis
-    - Data Generation (Operational Syatems and Analytic Systems)
+    - Data Generation (Operational Systems and Analytic Systems)
     - Data Storage (On Premise and On cloud)
     - Forms of Data (Structured, Semi-Stractured, Unstructured)
     - Types of data (quantitative, qualitative, etc.)
